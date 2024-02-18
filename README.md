@@ -1,5 +1,8 @@
 # Project Title
 
+[![CMake on multiple platforms](https://github.com/hporro/template-cpp/actions/workflows/cmake-multi-platform.yml/badge.svg)](https://github.com/hporro/template-cpp/actions/workflows/cmake-multi-platform.yml)
+
+
 One Paragraph of project description goes here
 
 ## Getting Started
